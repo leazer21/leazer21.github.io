@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gregory H. Leazer / Personal page"
 title_separator          : "-"
-name                     : &name "Gregory Leazer
+name                     : &name "Gregory Leazer"
 description              : &description "Gregory Leazer is a faculty member in the UCLA Department of Information Studies, School of Educaation and Information Studies, University of California, Los Angeles"
 url                      : https://leazer21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
