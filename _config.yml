@@ -83,10 +83,10 @@ author:
   name             : "Gregory Leazer"
   avatar           : "profile.png"
   bio              : "Faculty member in the UCLA Dept. of Information Studies"
-  location         : "Los Angeles, California, USA"
+  location         : "Los Angeles, California"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "leazer@ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
